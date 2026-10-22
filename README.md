@@ -69,22 +69,6 @@ Explore my repositories to see more of my development work.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullahi2312&theme=tokyonight&no-frame=true&margin-w=8" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahi2312&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
