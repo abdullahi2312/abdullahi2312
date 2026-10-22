@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdullahi Mohamed Ali</h1>
+<h1 align="center">Hi 👋, I'm Abdullahi Hassan Saciid</h1>
 
 <h3 align="center">Full-Stack Web Developer | MERN Stack</h3>
 
